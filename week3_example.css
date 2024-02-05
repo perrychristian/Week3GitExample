@@ -1,0 +1,13 @@
+* { /* Start from scratch */
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;    
+}
+
+/* general, these affect everything */
+body {  
+    background-color: #000000;
+    color: #ffffff;
+    width: 600px;
+    margin: 0 5%;
+}
